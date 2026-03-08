@@ -1,0 +1,8 @@
+Market,Ticker,Total Days,Warning Days,Warning %
+US (S&P 500),^GSPC,3056,76,2.49%
+China (CSI 300),000300.SS,1202,34,2.83%
+Hong Kong (Hang Seng),^HSI,2990,79,2.64%
+Japan (Nikkei 225),^N225,2968,77,2.59%
+Taiwan (TAIEX),^TWII,2953,103,3.49%
+South Korea (KOSPI),^KS11,2978,70,2.35%
+Europe (Euro Stoxx 50),^STOXX50E,3049,76,2.49%
